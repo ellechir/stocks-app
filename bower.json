@@ -1,0 +1,22 @@
+{
+  "name": "My Stock Exchange",
+  "description": "This is a simple app that will collect the data that is related to stock market info",
+  "main": "",
+  "authors": [
+    "ellechir <jasmine_6js@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "angularjs#^1.5.8",
+    "jquery": "^3.1.0"
+  }
+}
